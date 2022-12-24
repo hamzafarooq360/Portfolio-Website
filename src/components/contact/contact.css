@@ -67,6 +67,10 @@ input, textarea {
     border-radius: 1.2rem;
     text-align: center;
     padding: 1px solid transparent;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
 
 }
 
