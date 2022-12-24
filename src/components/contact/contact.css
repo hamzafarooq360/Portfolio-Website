@@ -27,7 +27,7 @@
 }
 
 .contact__option-icon {
-    font-size: 1rem;
+    font-size: 2rem;
     margin-bottom: 0.5rem;
 
 }
@@ -46,6 +46,7 @@ form {
 }
 
 input, textarea {
+    margin-top: 1rem;
     width: 100%;
     padding: 1.5rem;
     border-radius: 0.5rem;
