@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/Portfolio-Website/static/css/main.9b4c004f.css",
-    "main.js": "/Portfolio-Website/static/js/main.0f6536fd.js",
+    "main.css": "/Portfolio-Website/static/css/main.68d7d13c.css",
+    "main.js": "/Portfolio-Website/static/js/main.c3f24bdd.js",
     "static/media/me.png": "/Portfolio-Website/static/media/me.e6abf1636c23a3f68a19.png",
     "static/media/fire.png": "/Portfolio-Website/static/media/fire.8f626c2f4742ebc0f7dc.png",
     "static/media/Emotion-Detection-1.png": "/Portfolio-Website/static/media/Emotion-Detection-1.10eb112e855e9745a9f7.png",
@@ -10,11 +10,11 @@
     "static/media/malware-detection-blog-thumb.jpeg": "/Portfolio-Website/static/media/malware-detection-blog-thumb.e0c0e7c003463e4cead9.jpeg",
     "static/media/texture.png": "/Portfolio-Website/static/media/texture.f20bd5f9169750e82c8f.png",
     "index.html": "/Portfolio-Website/index.html",
-    "main.9b4c004f.css.map": "/Portfolio-Website/static/css/main.9b4c004f.css.map",
-    "main.0f6536fd.js.map": "/Portfolio-Website/static/js/main.0f6536fd.js.map"
+    "main.68d7d13c.css.map": "/Portfolio-Website/static/css/main.68d7d13c.css.map",
+    "main.c3f24bdd.js.map": "/Portfolio-Website/static/js/main.c3f24bdd.js.map"
   },
   "entrypoints": [
-    "static/css/main.9b4c004f.css",
-    "static/js/main.0f6536fd.js"
+    "static/css/main.68d7d13c.css",
+    "static/js/main.c3f24bdd.js"
   ]
 }
