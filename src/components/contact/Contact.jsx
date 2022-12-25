@@ -31,14 +31,14 @@ const Contact = () => {
             <AiOutlineMail className='contact__option-icon'/>
             <h4>Email</h4>
             <h5>hamzafarooq6995@gmail.com</h5>
-            <a href="mailto:hamzafarooq6995@gmail.com" target="_blank">Send me a message</a>
+            <a className='btn btn-primary' href="mailto:hamzafarooq6995@gmail.com" target="_blank">Send Email</a>
           </article>
 
           <article className="contact__option">
             <ImWhatsapp className='contact__option-icon'/>
             <h4>Whatsapp</h4>
             <h5>+15148036995</h5>
-            <a href="https://api.whatsapp.com/send?phone=15148036995" target="_blank">Send me a message</a>
+            <a className='btn btn-primary' href="https://api.whatsapp.com/send?phone=15148036995" target="_blank">Send Message</a>
           </article>
 
         </div>
