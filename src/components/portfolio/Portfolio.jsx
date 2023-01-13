@@ -3,6 +3,7 @@ import './portfolio.css'
 import IMG1 from '../../assets/fire.png'
 import IMG2 from '../../assets/Emotion-Detection-1.png'
 import IMG3 from '../../assets/malware-detection-blog-thumb.jpeg'
+import IMG4 from '../../assets/recipe app.png'
 
 const Portfolio = () => {
   return (
@@ -37,6 +38,16 @@ const Portfolio = () => {
             <h3>Malware Prediction using RFC</h3>
             <div className="portfolio__item-cta">
               <a href='https://github.com/hamzafarooq360/Malware-Detection-using-Random-Forest-Classifiers' className='btn btn-primary' target='_blank'>Github</a>
+            </div>
+        </article>
+
+        <article className='portfolio__item'>
+          <div className="portfolio__item-image">
+            <img src={IMG4} alt="" />
+          </div>
+            <h3>Random Recipe Generator</h3>
+            <div className="portfolio__item-cta">
+              <a href='https://github.com/hamzafarooq360/Recipe-App' className='btn btn-primary' target='_blank'>Github</a>
             </div>
         </article>
 
